@@ -4,7 +4,7 @@ Very simple helpdesk IT management made using PHP
 
 User Installation Guide
 
-  -Clone Repository from GitHub
+Clone Repository from GitHub
 Make sure you have Git installed on your computer.
 Open a terminal or command prompt, then run the following command
 
